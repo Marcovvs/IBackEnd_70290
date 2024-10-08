@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "title": "Camiseta Oficial River Plate 2024-25",
+    "description": "Camiseta Titutal de la temporada.",
+    "code": "CARP14",
+    "price": 120,
+    "stock": 100,
+    "category": "Ropa Deportiva",
+    "thumbnails": [
+      "https://tiendariver.vtexassets.com/arquivos/ids/171862-1200-auto?v=638604464350370000&width=1200&height=auto&aspect=true"
+    ],
+    "status": true
+  }
+]
